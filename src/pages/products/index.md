@@ -2,8 +2,6 @@
 heading: Эргономик бүтээгдэхүүнүүд
 path: /products
 templateKey: product-page
-title: Need to remove
-image: /img/ergonomics.jpg
 description: эдгээр нь хүмүүсийг ядраадаггүй
 intro:
   blurbs:
