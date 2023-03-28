@@ -1,23 +1,22 @@
 ---
-templateKey: 'product-page'
+heading: Эргономик бүтээгдэхүүнүүд
 path: /products
-title: Манай бүтээгдхүүнүүд
+templateKey: product-page
+title: Need to remove
 image: /img/ergonomics.jpg
-heading: Great coffee with a conscience
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+description: эдгээр нь хүмүүсийг ядраадаггүй
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/antistress.png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+        Энэхүү ядаргааны эсрэг эргономик дэвсгэр нь таныг ажлын байрандаа
+        зогсоход нэмэлт дэмжлэг болно.
+
+        Өндөр нягтралтай хөөс - Байнгын ул мөр үлдээхгүй. Дэвсгэр нь гулгамтгай гадаргуу дээр гулсдаггүй.
+
+        Олон талт хэрэглээ - Та энэхүү дэвсгэрийг оффисоос гадна гал тогоо, анги танхим эсвэл хөл дээрээ удаан хугацаагаар зогсох шаардлагатай хаана ч ашиглах боломжтой.
+
+        Толбонд тэсвэртэй - Полиуретан (PU) материал нь эвтэйхэн төдийгүй цэвэрлэхэд хялбар. Өндөр зэрэглэлийн хөөсийг тоос соруулж эсвэл чийгтэй даавуугаар арчиж, шинэ мэт харагдуулна.
     - image: /img/coffee-gear.png
       text: >
         We offer a small, but carefully curated selection of brewing gear and
@@ -47,8 +46,8 @@ intro:
 main:
   heading: Эргономик компьютерийн суурь
   description: >
-   Хялбар, 2 товчлууртай хяналтын самбар нь энгийн бөгөөд зөв байрлал, илүү бүтээмжтэй ажлын талбарт шаардлагатай өндрийг тохируулж болно.
-
+    Хялбар, 2 товчлууртай хяналтын самбар нь энгийн бөгөөд зөв байрлал, илүү
+    бүтээмжтэй ажлын талбарт шаардлагатай өндрийг тохируулж болно.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
@@ -60,20 +59,17 @@ main:
     image: /img/products-grid1.jpg
 testimonials:
   - author: Elisabeth Kaurismäki
-    quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
+    quote: The first time I tried Kaldi’s coffee, I couldn’t even believe that was
       the same thing I’ve been drinking every morning.
   - author: Philipp Trommler
-    quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
+    quote: Kaldi is the place to go if you want the best quality coffee. I love
+      their stance on empowering farmers and transparency.
 full_image: /img/products-full-width.jpg
 pricing:
   heading: Monthly subscriptions
-  description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+  description: We make it easy to make great coffee a part of your life. Choose
+    one of our monthly subscription plans to receive great coffee at your
+    doorstep each month. Contact us about more details and payment info.
   plans:
     - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
       items:
@@ -81,19 +77,19 @@ pricing:
         - Green or roasted beans"
         - One or two varieties of beans"
       plan: Small
-      price: '50'
-    - description: 'Great for avid drinkers, java-loving couples and bigger crowds'
+      price: "50"
+    - description: Great for avid drinkers, java-loving couples and bigger crowds
       items:
         - 6 lbs of coffee per month
         - Green or roasted beans
         - Up to 4 different varieties of beans
       plan: Big
-      price: '80'
+      price: "80"
     - description: Want a few tiny batches from different varieties? Try our custom plan
       items:
         - Whatever you need
         - Green or roasted beans
         - Unlimited varieties
       plan: Custom
-      price: '??'
+      price: ??
 ---
