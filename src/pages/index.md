@@ -21,7 +21,7 @@ intro:
     - image: /img/coffee.png
       text: >
         Lorem ipsum
-    - image: /img/ergonomisc.jpg
+    - image: /img/ergonomics.jpg
       text: >
         We offer a small, but carefully curated selection of brewing gear and
         tools for every taste and experience level. No matter if you roast your
