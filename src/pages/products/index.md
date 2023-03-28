@@ -2,6 +2,8 @@
 heading: Эргономик бүтээгдэхүүнүүд
 path: /products
 templateKey: product-page
+title: ustgamaar bna
+image: /img/ergonomics.jpg
 description: эдгээр нь хүмүүсийг ядраадаггүй
 intro:
   blurbs:
@@ -66,5 +68,10 @@ full_image: /img/ergonomics.jpg
 pricing:
   heading: need to remove this section
   description: remove also
-  plans: []
+  plans:
+    - plan: dsa
+      price: asdas
+      description: asda
+      items:
+        - asd
 ---
