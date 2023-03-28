@@ -1,26 +1,20 @@
 ---
 templateKey: index-page
-title: Arvintengis
 image: /img/ergonomics.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Бүтээгдэхүүнүүд
 mainpitch:
-  title: Why Kaldi
+  title: Яагаад эргономик
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Эргономик бол бла бла бла
+    бла бла 
+    бла
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  жоохон реклам
 intro:
   blurbs:
     - image: /img/coffee.png
       text: >
-        Lorem ipsum
+        Эргономик бүтээгдэхүүний зураг болон тайлбар байна
     - image: /img/ergonomics.jpg
       text: >
         We offer a small, but carefully curated selection of brewing gear and
