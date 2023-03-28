@@ -1,7 +1,7 @@
 ---
 templateKey: 'product-page'
 path: /products
-title: Our Coffee
+title: Манай бүтээгдхүүнүүд
 image: /img/jumbotron.jpg
 heading: Great coffee with a conscience
 description: >-
@@ -45,12 +45,13 @@ intro:
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
 main:
-  heading: Great coffee with no compromises
+  heading: Эргономик компьютерийн суурь
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    【Өндрийг тохируулах систем】: Хялбар, 2 товчлууртай хяналтын самбар нь энгийн бөгөөд зөв байрлал, илүү бүтээмжтэй ажлын талбарт шаардлагатай өндрийг тохируулж болно.
+【Олон функц】Нэгдсэн USB порт эсвэл залгуураар хоёр хүртэл төхөөрөмжийг цэнэглэ. Доод шат нь дээд шаттай синхроноор өргөгддөг бөгөөд тав тухтай ажлын байрыг бий болгодог бөгөөд пүрштэй өргөгчийг таны аюулгүй байдал, хялбар байдлыг хангах үүднээс зохион бүтээж, туршиж үзсэн.
+【Эрүүл мэндэд тустай】Энэ ширээ нь өндрийг төгс хувиргахад хялбар бөгөөд өдрийн турш зогсож буй оффис болон суух ажлын хооронд шаардлагатай эрүүл тэнцвэрийг олох боломжийг танд олгоно. Ажлын ядаргааг тайлж, ажлын үр ашгаа дээшлүүлээрэй, бид танд хамгийн сайн ширээний өргөгч, үйлчилгээг үзүүлэхийн тулд шаргуу ажиллаж байна.
+【Хялбар угсралт】 Урьдчилан угсарч, хэдхэн минутын дотор ашиглахад бэлэн болно. Одоо байгаа ширээн дээрээ тавиад ажлын байраа цэгцэлж эхлээрэй.
+
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
