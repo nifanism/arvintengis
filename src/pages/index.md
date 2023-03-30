@@ -2,7 +2,6 @@
 templateKey: index-page
 image: /img/ergonomics.jpg
 heading: Бүтээгдэхүүнүүд
-subheading: Support sustainable farming while enjoying a cup
 mainpitch:
   title: Яагаад эргономик
   description: >
