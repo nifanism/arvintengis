@@ -7,7 +7,7 @@ import Features from "../components/Features";
 import Testimonials from "../components/Testimonials";
 import Pricing from "../components/Pricing";
 import PreviewCompatibleImage from "../components/PreviewCompatibleImage";
-//import FullWidthImage from "../components/FullWidthImage";
+import FullWidthImage from "../components/FullWidthImage";
 
 // eslint-disable-next-line
 export const ProductPageTemplate = ({
@@ -18,7 +18,7 @@ export const ProductPageTemplate = ({
   intro,
   main,
   testimonials,
-  //fullImage,
+  fullImage,
   pricing,
 }) => {
   const heroImage = getImage(image) || image;
@@ -133,7 +133,7 @@ const ProductPage = ({ data }) => {
         intro={frontmatter.intro}
         main={frontmatter.main}
         testimonials={frontmatter.testimonials}
-        //fullImage={frontmatter.full_image}
+        fullImage={frontmatter.full_image}
         pricing={frontmatter.pricing}
       />
     </Layout>
