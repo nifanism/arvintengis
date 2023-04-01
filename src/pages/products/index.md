@@ -62,10 +62,5 @@ full_image: /img/ergonomics.jpg
 pricing:
   heading: need to remove this section
   description: remove also
-  plans:
-    - plan: dsa
-      price: asdas
-      description: asda
-      items:
-        - asd
+  plans: []
 ---
