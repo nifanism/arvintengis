@@ -1,41 +1,38 @@
 ---
 templateKey: index-page
+title: Remove this
 image: /img/ergonomics.jpg
 heading: Бүтээгдэхүүнүүд
-subheading: Support sustainable farming while enjoying a cup
+subheading: remove
 mainpitch:
-  title: Яагаад эргономик
-  description: >
-    Эргономик бол бла бла бла
-    бла бла 
-    бла
-description: >-
-  жоохон реклам
+  title: Ажлын байранд эргономик яагаад чухал вэ?
+  description: Эргономик нь тав тухыг нэмэгдүүлээд зогсохгүй бүтээмжийг
+    нэмэгдүүлж, стрессийг бууруулдаг. Ажлын байран дахь эргономик нь ажилчид
+    өвдөх, ядрах, эрүүл мэндийн асуудал үүсэхээс сэргийлдэг.
+description: Бид доорх олон төрлийн эргономик бүтээгдэхүүнүүдийг нийлүүлж байна.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/2.jpg
+      text: Энэ ширээ нь өндрийг төгс хувиргахад хялбар бөгөөд өдрийн турш зогсож буй
+        оффис болон суух ажлын хооронд шаардлагатай эрүүл тэнцвэрийг олох
+        боломжийг танд олгоно. Ажлын ядаргааг тайлж, ажлын үр ашгаа
+        дээшлүүлээрэй.
+    - image: /img/antistress.png
       text: >
-        Эргономик бүтээгдэхүүний зураг болон тайлбар байна
-    - image: /img/ergonomics.jpg
+        Энэхүү ядаргааны эсрэг эргономик дэвсгэр нь таныг ажлын байрандаа
+        зогсоход нэмэлт дэмжлэг болно. Та энэхүү дэвсгэрийг оффисоос гадна гал
+        тогоо, анги танхим эсвэл хөл дээрээ удаан хугацаагаар зогсох
+        шаардлагатай хаана ч ашиглах боломжтой.
+    - image: /img/suudal.png
+      text: "Эргономик суудлын дэр нь гуя, ташааг дэмжиж, ямар ч сандал дээр эгц
+        суухад тань туслах шинжлэх ухааны үндэслэлтэй дэр юм. Эргономик контур
+        нь зөв байрлал, нурууны эгц байрлалыг дэмжиж, олон цагаар суусан ч гэсэн
+        таны биеийн доод жинг дахин хуваарилж, тав тухтай байдлыг хангана. "
+    - image: /img/suudal-1.png
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        Эргономик суудлын дэр нь аливаа сандлыг нэн даруй тав тухыг нэмж өгдөг.
+        Тусгай зориулалтын нягт санах ойн хөөс нь хэрэглэхэд ямар ч үнэргүй,
+        зөөлөн болно. 
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
