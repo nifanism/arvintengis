@@ -7,7 +7,7 @@ export default function FullWidthImage(props) {
     height = 400,
     img,
     title,
-    subheading,
+    //subheading,
     imgPosition = "top left",
   } = props;
 
