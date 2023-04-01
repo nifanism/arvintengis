@@ -2,7 +2,7 @@
 heading: Эргономик бүтээгдэхүүнүүд
 path: /products
 templateKey: product-page
-title: ustgamaar bna
+title: ustgah heregtei baina
 image: /img/ergonomics.jpg
 description: эдгээр нь хүмүүсийг ядраадаггүй
 intro:
