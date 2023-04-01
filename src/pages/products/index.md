@@ -57,7 +57,11 @@ main:
   image3:
     alt: Coffee beans
     image: /img/products-grid1.jpg
-testimonials: []
+testimonials:
+  - quote: Posture is your Superpower
+    author: Deepanker Dass
+  - quote: A good stance and posture reflect a proper state of mind
+    author: Morihei Ueshiba
 full_image: /img/ergonomics.jpg
 pricing:
   heading: need to remove this section
