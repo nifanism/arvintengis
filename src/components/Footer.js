@@ -10,7 +10,7 @@ import vimeo from "../img/social/vimeo.svg";
 const Footer = () => {
   
     return (
-      <footer className="footer has-background-black has-text-white-ter">
+      <footer className="footer has-background-black has-text-white-ter"> style={{ backgroundColor: "blue" }}
         <div className="content has-text-centered">
           <img
             src={logo}
