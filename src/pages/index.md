@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Remove this
+title: need to remove
 image: /img/ergonomics.jpg
 heading: Бүтээгдэхүүнүүд
 subheading: remove
