@@ -2,7 +2,7 @@
 heading: Эргономик бүтээгдэхүүнүүд
 path: /products
 templateKey: product-page
-title: ustgah heregtei baina
+title: Remove with background image
 image: /img/ergonomics.jpg
 description: эдгээр нь хүмүүсийг ядраадаггүй
 intro:
@@ -64,12 +64,12 @@ testimonials:
     author: Morihei Ueshiba
 full_image: /img/ergonomics.jpg
 pricing:
-  heading: need to remove this section
+  heading: remove this section
   description: remove also
   plans:
-    - plan: w
-      price: w
-      description: w
+    - plan: remove
+      price: remove
+      description: remove
       items:
-        - w
+        - remove
 ---
