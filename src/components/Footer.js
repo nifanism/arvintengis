@@ -49,9 +49,12 @@ const Footer = () => {
                     <li>
                       <Link className="navbar-item" to="/contact">
                         Холбоо барих
-                      <label className="label" htmlFor={"message"}>
-                       И-мейл: sales@arvintengis.com
                       </label>
+                      </Link>
+                    </li>
+                    <li>
+                      <Link className="navbar-item" to="/contact">
+                        sales@arvintengis.com
                       </Link>
                     </li>
                   </ul>
