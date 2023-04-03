@@ -49,10 +49,20 @@ const Footer = () => {
                     <li>
                       <Link className="navbar-item" to="/contact">
                         Холбоо барих
+                        sales@arvintengis.com
                       </Link>
                     </li>
                   </ul>
                 </section>
+              <div className="column is-4 social">
+                <a title="facebook" href="https://facebook.com">
+                  <img
+                    src={facebook}
+                    alt="Facebook"
+                    style={{ width: "1em", height: "1em" }}
+                  />
+                </a>
+              </div>
             </div>
           </div>
         </div>
