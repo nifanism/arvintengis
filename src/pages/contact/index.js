@@ -39,9 +39,7 @@ export default class Index extends React.Component {
           <div className="container">
             <div className="content">
               <h1>Үнийн санал авах</h1>
-              <h1>sales@arvintengis.com</h1>
-              <h1>Таны нэр</h1>      
-              <form
+               <form
                 name="contact"
                 method="post"
                 action="/contact/thanks/"
@@ -60,6 +58,7 @@ export default class Index extends React.Component {
                 <div className="field">
                   <label className="label" htmlFor={"name"}>
                     Та sales@arvintengis.com цахим хаягаар болон доорх талбарыг бөглөн бидэнтэй холбогдох боломжтой.
+                  <h1>Таны нэр</h1>     
                   </label>
                   <div className="control">
                     <input
