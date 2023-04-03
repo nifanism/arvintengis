@@ -49,7 +49,6 @@ const Footer = () => {
                     <li>
                       <Link className="navbar-item" to="/contact">
                         Холбоо барих
-                      </label>
                       </Link>
                     </li>
                     <li>
