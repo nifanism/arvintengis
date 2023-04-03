@@ -13,7 +13,7 @@ description: "                                                                  
   "
 intro:
   blurbs:
-      text: >-
+    - text: >
         Эргономик компьютерийн суурь 
     - image: /img/laptopstand.png
       text: >-
