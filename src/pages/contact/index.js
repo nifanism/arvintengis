@@ -32,14 +32,14 @@ export default class Index extends React.Component {
       .then(() => navigate(form.getAttribute("action")))
       .catch((error) => alert(error));
   };
-
   render() {
     return (
       <Layout>
         <section className="section">
           <div className="container">
             <div className="content">
-              <h1>Холбоо барих</h1>
+              <h1>Үнийн санал авах</h1>
+              <h1>sales@arvintengis.com</h1>
               <form
                 name="contact"
                 method="post"
