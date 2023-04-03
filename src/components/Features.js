@@ -18,6 +18,7 @@ const FeatureGrid = ({ gridItems }) => (
             </div>
           </div>
           <p>{item.text}</p>
+          <p>{item.additionalText}</p>
         </section>
       </div>
     ))}
