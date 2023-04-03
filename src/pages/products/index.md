@@ -4,7 +4,8 @@ path: /products
 templateKey: product-page
 title: Remove with background image
 image: /img/ergonomics.jpg
-description: эдгээр нь хүмүүсийг ядраадаггүй
+description: "                                                                                                                                                                              \
+  "
 intro:
   blurbs:
     - image: /img/antistress.png
@@ -42,19 +43,30 @@ intro:
     knowledge to anyone. This is an edit via identity...
 main:
   heading: Бусад эргономик бүтээгдэхүүн
-  description: |
+  description: >
     Бид доорх бүтээгдэхүүнүүдийг санал болгож байна. 
-    -Ширээ
-    -Зөөврийн компьютерийн тавиур
-    -Компьютерийн гар, 
-    -Компьютерийн хулгана
-    -Пад
-    -Төрөл бүрийн дэвсгэр
-    -Хөл амраагч
-    -Ширээ тусгаарлагч
-    -Монитор тогтоогч
-    -Гэрэл
-    -Дасгал хийх хэрэгсэл
+
+    -Ширээ                                                                                                                                                         
+
+    -Зөөврийн компьютерийн тавиур                                                                                                                
+
+    -Компьютерийн гар                                                                                                                                            
+
+    -Компьютерийн хулгана                                                                                                                                
+
+    -Пад                                                                                                                                                                 
+
+    -Төрөл бүрийн дэвсгэр                                                                                                                                   
+
+    -Хөл амраагч                                                                                                                                                    
+
+    -Ширээ тусгаарлагч                                                                                                                                          
+
+    -Монитор тогтоогч                                                                                                                                         
+
+    -Гэрэл                                                                                                                                                              
+
+    -Дасгал хийх хэрэгсэл                                                                                                                                     
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/laptopstand1.png
