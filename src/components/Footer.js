@@ -42,11 +42,6 @@ const Footer = () => {
                 <section>
                   <ul className="menu-list">
                     <li>
-                      <Link className="navbar-item" to="/blog">
-                        Блог
-                      </Link>
-                    </li>
-                    <li>
                       <Link className="navbar-item" to="/contact">
                         Холбоо барих
                       </Link>
