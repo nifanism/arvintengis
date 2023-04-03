@@ -40,6 +40,7 @@ export default class Index extends React.Component {
             <div className="content">
               <h1>Үнийн санал авах</h1>
               <h1>sales@arvintengis.com</h1>
+              <h1>Таны нэр</h1>      
               <form
                 name="contact"
                 method="post"
@@ -88,7 +89,7 @@ export default class Index extends React.Component {
                 </div>
                 <div className="field">
                   <label className="label" htmlFor={"message"}>
-                   Мэдээлэл
+                   Мессеж
                   </label>
                   <div className="control">
                     <textarea
