@@ -55,10 +55,10 @@ export default class Index extends React.Component {
                     <input name="bot-field" onChange={this.handleChange} />
                   </label>
                 </div>
+                 <h1>Та sales@arvintengis.com цахим хаягаар болон доорх талбарыг бөглөн бидэнтэй холбогдох боломжтой.</h1>     
                 <div className="field">
                   <label className="label" htmlFor={"name"}>
-                    Та sales@arvintengis.com цахим хаягаар болон доорх талбарыг бөглөн бидэнтэй холбогдох боломжтой.
-                  <h1>Таны нэр</h1>     
+                    Таны нэр
                   </label>
                   <div className="control">
                     <input
