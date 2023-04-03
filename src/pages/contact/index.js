@@ -58,7 +58,7 @@ export default class Index extends React.Component {
                 </div>
                 <div className="field">
                   <label className="label" htmlFor={"name"}>
-                    Таны нэр
+                    Та sales@arvintengis.com цахим хаягаар болон доорх талбарыг бөглөн бидэнтэй холбогдох боломжтой.
                   </label>
                   <div className="control">
                     <input
@@ -88,7 +88,7 @@ export default class Index extends React.Component {
                 </div>
                 <div className="field">
                   <label className="label" htmlFor={"message"}>
-                   Холбоо барих 
+                   Мэдээлэл
                   </label>
                   <div className="control">
                     <textarea
